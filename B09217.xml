@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the honourable House of Commons assembled in Parliament the case and humble petition of Benjamin Harris, bookseller prisoner in the Kings-bench.</title>
+            <author>Harris, Benjamin, d. 1716?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09217</idno>
+            <idno type="STC">Wing H842</idno>
+            <idno type="STC">ESTC R178004</idno>
+            <idno type="EEBO-CITATION">62369300</idno>
+            <idno type="OCLC">ocm 62369300</idno>
+            <idno type="VID">187940</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09217)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187940)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2850:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the honourable House of Commons assembled in Parliament the case and humble petition of Benjamin Harris, bookseller prisoner in the Kings-bench.</title>
+                  <author>Harris, Benjamin, d. 1716?</author>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <p>
+                     <name type="place">[London : s.n.],</name>
+                     <date>Mar. 19, 1680/1. [i.e. 1681]</date>
+                  </p>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication suggested by Wing (2nd ed.).</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Harris, Benjamin, d. 1716? --  Trials, litigation, etc.</term>
+               <term>Scroggs, William, --  Sir, 1623?-1683 --  Sources.</term>
+               <term>Printing industry --  Law and legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:187940:1"/>
+            <pb facs="tcp:187940:1"/>
+            <pb facs="tcp:187940:2"/>
+            <pb n="1" facs="tcp:187940:2"/>
+            <head>To the Honourable Houſe of Commons Aſſembled in PARLIAMENT: THE CASE AND Humble PETITION OF <hi>Benjamin Harris,</hi> BOOKSELLER, Priſoner in the KINGS-BENCH.</head>
+            <opener>Humbly Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat Your <hi>Petitioner</hi> being a <hi>Citizen</hi> of <hi>London,</hi> that formerly Liv'd in <hi>Good Faſhion</hi> and <hi>Repute,</hi> Hath not only been Expoſed to the <hi>Indelible</hi> Ig<g ref="char:EOLhyphen"/>nominy of <hi>Standing In the Pillory,</hi> before his <hi>Own Houſe,</hi> near the <hi>Royal Exchange;</hi> But alſo Confin'd for above <hi>Thirteen Months</hi> laſt paſt, and ſtill continues a Priſoner in <hi>Execution</hi> for 500 <hi>l.</hi> Fine, <hi>Impoſed</hi> upon him in <hi>Hillary</hi> Term, 1680. by the Lord Chief-Juſtice <hi>Scroggs,</hi> and the reſt of the Judges of the Court of <hi>King's-Bench:</hi> Which Your <hi>Petitioner</hi> being altogether Unable to Pay, is conſequently doom'd to as <hi>wretched a ſtate,</hi> as if he had been Condemned to the <hi>Gal<g ref="char:EOLhyphen"/>lies,</hi> ſince, like them, his <hi>Miſery</hi> has no Proſpect of Terminating, but with his <hi>Life:</hi> And withal his <hi>diſtreſſed Wife,</hi> and many <hi>Innocent Helpleſs Children,</hi> ſharing in the ſame <hi>Calamity,</hi> and being hereby inevi<g ref="char:EOLhyphen"/>tably reduced to Ruine, and the utmoſt Extremities.</p>
+            <pb n="2" facs="tcp:187940:3"/>
+            <p>And all this for <hi>no other Crime or Offence,</hi> ſo much as Alledged againſt him, ſave only, That he did (In the way of his <hi>Trade</hi>) cauſe to be <hi>Re-printed,</hi> and ſell a certain Book, Intituled,</p>
+            <p>
+               <hi>An Appeal from the Countrey to the City, for the Pre<g ref="char:EOLhyphen"/>ſervation of His Majeſties Perſon, Liberty, Pro<g ref="char:EOLhyphen"/>perty, and the Proteſtant Religion.</hi>
+            </p>
+            <p>In which Book, the <hi>Onely Words</hi> excepted againſt, and charged as Criminal in the <hi>Information</hi> brought againſt Your <hi>Petitioner,</hi> and upon which he receiv'd this Unparallel'd <hi>Judgment,</hi> are theſe, [Speaking concerning Electing of Members to ſerve in Parliament.]</p>
+            <q rend="margQuotes">
+               <hi>We in the Countrey have done our Parts, in Chuſing, for the Generality, Good Members to Serve in Par<g ref="char:EOLhyphen"/>liament; But if (as our Two laſt Parliaments were) they muſt be Diſſolved, or Prorogued, when ever they come to Redreſs the Grievances of the Subject, we may be Pity'd, but not Blam'd. If the PLOT takes Effect, (as in all Probability it will) our Parliaments are not then to be Con<g ref="char:EOLhyphen"/>demned, for that their not being ſuffer'd to Sit, oc<g ref="char:EOLhyphen"/>caſion'd it.</hi>
+            </q>
+            <p>And as theſe were all the Words charged, as by the <hi>Information</hi> appears; And that Your <hi>Petitioner</hi> did onely <hi>Re-print</hi> it from and by a <hi>Printed Copy</hi> then com<g ref="char:EOLhyphen"/>monly Sold about Town, Publiſh'd (as hath been offered to the Lord Chief-Juſtice <hi>Scroggs,</hi> to be proved) by <hi>Thompſon,</hi> commonly called, <hi>The Popiſh Printer:</hi> So after all this Hardſhip to Your <hi>Petitioner,</hi> the ſaid <hi>Thompſon,</hi> who firſt ſet it abroad, was never in the leaſt Queſtion'd or Proſecuted for the ſame.</p>
+            <p>And as Your <hi>Humble Suppliant</hi> with all Gratitude acknowledges the abundant <hi>Charity</hi> and <hi>Kindneſs</hi> of the <hi>Honourable Houſe of Commons,</hi> in the late Ever-Honour'd Parliament, towards him, in Repeating on his behalf the <hi>Addreſſes</hi> and <hi>Requeſts</hi> of that Honourable Houſe, to His Majeſty, <hi>That He would Graciouſly be pleaſed to Remit Your Petitioner's Fine.</hi> So nothing in all Your <hi>Petitioner's</hi> Trou<g ref="char:EOLhyphen"/>bles has more <hi>ſenſibly</hi> afflicted him, than that he ſhould be ſo Unhappy, as to be <hi>miſrepreſented</hi> to His Majeſty, by ſome ill Men, (ſpeaking either out of <hi>Malice,</hi> or meerly on falſe unjuſt <hi>Reports</hi>) as a Perſon of <hi>Diſloyal</hi> or <hi>Seditious</hi> Principles, Your <hi>Petitioner</hi> being really and ſincerely a moſt Dutiful and Affectionate Honorer of His Majeſties Perſon and Government; Both which he prays Almighty God, long to preſerve and continue. And as to the Expreſſions alledged to be ſpo<g ref="char:EOLhyphen"/>ken, <hi>That Thouſands would ſtand by him,</hi> &amp;c. No ſuch words were ever utter'd by Your <hi>Petitioner;</hi> And one of the Witneſſes that teſtified againſt him at his Tryal, has ſince Publickly and Freely acknowledged before divers Witneſſes, That he there ſwore falſly, and ask'd Your <hi>Petitioner</hi> pardon for the ſame.</p>
+            <p>Wherefore, ſince Your <hi>Petitioner</hi>'s Miſery is ſo Unſupportable, and the Occaſion thereof, no other than as aforeſaid; And for that in the Reſolutions of the late <hi>Houſe of Commons,</hi> the ſaid <hi>Proceedings</hi> againſt Your <hi>Petitioner</hi> as to ſuch <hi>Ex<g ref="char:EOLhyphen"/>ceſſive
+<pb n="3" facs="tcp:187940:3"/>Fine,</hi> were declared <hi>Partial, Arbitrary</hi> and <hi>Illegal;</hi> And becauſe Your <hi>Pe<g ref="char:EOLhyphen"/>titioner</hi> can never hope for Liberty, but muſt certainly periſh in this Loathſom <hi>Con<g ref="char:EOLhyphen"/>finement,</hi> and his Numerous Family <hi>Beg their Bread,</hi> unleſs His Majeſty, at the <hi>Interceſſion</hi> of You His moſt <hi>Great and Wiſe Councel,</hi> ſhall be <hi>Graciouſly pleaſed</hi> to Remit that <hi>Diſproportionate Fine,</hi> which 'tis impoſſible for Your <hi>Petitioner</hi> ever to Raiſe.</p>
+            <p>And ſince Your <hi>Petitioner</hi> has been thus Ruin'd, and remains ſtill under ſuch Se<g ref="char:EOLhyphen"/>verity, And that the late Parliament were pleaſed to have Your <hi>Petitioner</hi> under Nomination for Printing Their <hi>VOTES,</hi> [Though Your <hi>Petitioner</hi> did not then get any thing thereby, but <hi>Others</hi> went wholly away with the Profit] Your <hi>Petitioner</hi> humbly begs, That this Honourable Houſe would take him into Their Pious Conſi<g ref="char:EOLhyphen"/>deration, and Allow him Now the Priviledge of <hi>Printing the Votes of this Preſent Parliament at Oxford,</hi> or of the <hi>ſole Reprinting them at London,</hi> from time to time, or ſuch <hi>Share</hi> therein (to ſupport himſelf and Family from Periſhing) as the Com<g ref="char:EOLhyphen"/>paſſion and Wiſdom of this Honourable Houſe ſhall deem meet.</p>
+            <p>In which Your <hi>Petitioner</hi> aſſures himſelf he ſhall not, becauſe <hi>Confin'd,</hi> be <hi>Poſt<g ref="char:EOLhyphen"/>pon'd</hi> for the Importunities of others, who, enjoying <hi>Liberty,</hi> cannot pretend ſo much <hi>Equity</hi> in their Requeſts, though they may have Opportunities of making <hi>greater Intereſts:</hi> For he is confident the Juſtice of ſo wiſe a <hi>Senate,</hi> will chari<g ref="char:EOLhyphen"/>tably extend their Favors not meerly to thoſe that <hi>ſtand Next,</hi> or are moſt <hi>Impor<g ref="char:EOLhyphen"/>tunate,</hi> but to ſuch as have the <hi>most Need of them.</hi>
+            </p>
+            <p>Or ſhould it be ſaid, <hi>That Your Petitioner, becauſe in Priſon, cannot ſo well manage that Affair for the Service of the</hi> Houſe, <hi>and the</hi> Publick. Your <hi>Petitioner</hi> hopes, there will not appear any weight in that <hi>Objection,</hi> ſince 'tis well known, That Your <hi>Petitioner</hi> has, for divers Weeks together, during this <hi>Rigid Confinement,</hi> Publiſh'd (though with very little Encouragement of Advantage, by reaſon of the Swarms of Papers daily Emitted) his <hi>Intelligence,</hi> and divers other Sheets, tending to Un<g ref="char:EOLhyphen"/>vail the Deſigns of the <hi>Papiſts,</hi> Advance the <hi>Proteſtant Intereſt,</hi> and Vindicate the <hi>Justice</hi> and <hi>Loyalty</hi> of the Laſt Parliament; And alſo has given the World, a true Account of more <hi>PETITIONS, ADDRESSES</hi> and <hi>APPLICATIONS</hi> for the <hi>Sitting</hi> of this <hi>preſent Parliament,</hi> than any Pretender to <hi>Intelligence</hi> whatſoever; And therefore does not doubt, but by his Servants and Agents, he may as well ei<g ref="char:EOLhyphen"/>ther at <hi>Oxford</hi> or <hi>London,</hi> diſpatch the VOTES, where there is a certain Proſpect of Profit, as he did thoſe other things, where there has been very little private <hi>Advantage:</hi> But beſides, Your <hi>Petitioner</hi> being an Evidence againſt Sir <hi>Wil<g ref="char:EOLhyphen"/>liam Scroggs,</hi> who ſtands Impeached of <hi>Treaſon,</hi> and other High <hi>Crimes</hi> and <hi>Miſdemeanors</hi> in Parliament, ought, and may, (as he humbly conceives) on an <hi>Habeas Corpus</hi> (if the Honourable Houſe judge his Teſtimony material) be brought down, and allowed <hi>de Die in Diem,</hi> to Attend as long as You ſhall Sit, or till that Charge be Try'd.</p>
+            <p>Your Poor Petitioner is not inſenſible of Your <hi>manifold weighty Affairs,</hi> which much deter'd him from <hi>interrupting</hi> You with this his private <hi>Concern;</hi> But hopes the <hi>Diſmal Circumſtances</hi> he is under, and the <hi>Afflicting Complaints</hi> of his Poor <hi>Wife</hi> and <hi>Children,</hi> may Excuſe the <hi>
+                  <g ref="char:V">Ʋ</g>nuſual Boldneſs</hi> of it, and prevail with ſo <hi>Chri<g ref="char:EOLhyphen"/>ſtian an Aſſembly,</hi> to take Pity on <hi>Him</hi> and <hi>Them,</hi> ſo far as 'tis Juſt and Rea<g ref="char:EOLhyphen"/>ſonable.</p>
+            <closer>
+               <hi>And Your Petitioner (as in Duty bound) ſhall ever pray for Your Reſpective Safeties, the Bleſſing of God on all Your Conſultations, an Hearty Agree<g ref="char:EOLhyphen"/>ment between the KING and His good Subjects, the long Life of His Majeſty, the Preſervation of the Proteſtant Religion, and our just Liber<g ref="char:EOLhyphen"/>ties and Properties.</hi>
+               <dateline>From my Confinement in the <hi>Kings-Bench,</hi> 
+                  <date>Mar. 19. 1680/1.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:187940:4" rendition="simple:additions"/>
+            <pb facs="tcp:187940:4"/>
+         </div>
+      </body>
+   </text>
+</TEI>
